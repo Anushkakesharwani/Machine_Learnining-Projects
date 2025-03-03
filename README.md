@@ -1,0 +1,4 @@
+### Machine Learning Projects
+*	CTC Prediction: Developed a salary prediction model for newly hired employees at TechWorks Consulting to streamline compensation planning. Cleaned and prepared the dataset by handling missing values and encoding categorical features, selecting relevant attributes such as experience and previous CTC.
+*	Loan Default Prediction: Analyzed a loan dataset by preprocessing data, including handling missing values and applying one-hot encoding. This project trains and evaluates multiple classification models to effectively predict loan outcome.
+*	Predicted Food Delivery Outcomes: Analyzed the Online Foods dataset by preprocessing the data and applying machine learning techniques. The project trains and evaluates various classification models to effectively predict food delivery outcomes.
