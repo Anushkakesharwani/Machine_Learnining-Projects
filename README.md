@@ -1,39 +1,65 @@
-### Machine Learning Projects
-*	CTC Prediction: Developed a salary prediction model for newly hired employees at TechWorks Consulting to streamline compensation planning. Cleaned and prepared the dataset by handling missing values and encoding categorical features, selecting relevant attributes such as experience and previous CTC.
-*	Loan Default Prediction: Analyzed a loan dataset by preprocessing data, including handling missing values and applying one-hot encoding. This project trains and evaluates multiple classification models to effectively predict loan outcome.
-*	Predicted Food Delivery Outcomes: Analyzed the Online Foods dataset by preprocessing the data and applying machine learning techniques. The project trains and evaluates various classification models to effectively predict food delivery outcomes.
-*	# House Price Prediction
+# 💡 Machine Learning Projects by Anushka Kesharwani
 
-This project predicts house prices using regression techniques including Linear Regression, Ridge Regression, and Lasso Regression.
-
-## Project Overview
-- Performed data cleaning: handled missing values and outliers
-- Engineered new features such as average distance from landmarks
-- Encoded categorical variables using one-hot encoding
-- Built and evaluated models using MSE, RMSE, and R² metrics
-- Compared model performances and analyzed feature importance
-
-## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Seaborn
-- Matplotlib
-- NumPy
-
-## How to Run
-1. Clone the repo
-2. Install required libraries (e.g., `pip install -r requirements.txt`)
-3. Run the Jupyter notebook or Python script to reproduce results
-
-## Results
-Linear Regression achieved the best performance with the highest R² and lowest RMSE, while Ridge and Lasso helped with regularization and feature selection.
+A collection of practical machine learning projects covering regression and classification tasks using Python, scikit-learn, and data preprocessing techniques.
 
 ---
 
-Feel free to explore, give feedback, or contribute!
+## 🏠 House Price Prediction  
+Developed regression models (Linear, Ridge, Lasso) to predict house prices.  
+- Handled missing values, treated outliers  
+- Engineered features like average distance from landmarks  
+- One-hot encoded categorical variables  
+- Evaluated models using MSE, RMSE, and R²  
+📈 *Linear Regression gave the best performance overall*
 
 ---
 
-*Author: Anushka Kesharwani*
+## 💼 CTC Prediction  
+Built a salary prediction model for new hires at TechWorks Consulting.  
+- Cleaned data and handled missing values  
+- Encoded categorical features  
+- Focused on variables like experience and previous CTC  
+📊 *Streamlined compensation planning using regression models*
+
+---
+
+## 🏦 Loan Default Prediction  
+Created models to predict whether a loan would default.  
+- Preprocessed data and applied one-hot encoding  
+- Trained multiple classification models  
+- Evaluated performance using classification metrics  
+🧮 *Helped assess loan risks effectively*
+
+---
+
+## 🍔 Food Delivery Outcome Prediction  
+Predicted delivery outcomes using classification techniques.  
+- Preprocessed Online Foods dataset  
+- Trained and compared classification models  
+- Focused on accuracy and prediction consistency  
+🚚 *Useful for food delivery performance analysis*
+
+---
+
+## 🛠 Technologies Used  
+- Python, Pandas, NumPy  
+- Scikit-learn, Seaborn, Matplotlib  
+- Jupyter Notebook  
+
+---
+
+## 🔧 How to Run  
+1. Clone this repo  
+2. Install requirements: `pip install -r requirements.txt`  
+3. Open the relevant `.ipynb` file and run all cells  
+
+---
+
+📬 *Feel free to explore, give feedback, or connect for collaborations!*  
+**Author:** Anushka Kesharwani  
+📍 Bangalore, India  
+📧 anushkakesharwani.cs@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/anushka-kesharwani/) | [GitHub](https://github.com/anushkakesharwani)
+
+
 
